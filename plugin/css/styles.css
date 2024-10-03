@@ -52,7 +52,7 @@ body, .header-bar, .ui-tabs-anchor, .quiz-submission, .ig-header, .accessible-to
 
 .Button, .btn {
     background-color: #282828 !important;
-    color: #C7CDD1 !important;
+    color: #ffffff !important;
 }
 
 a {
@@ -204,4 +204,21 @@ code{
 .student-grades-link {
     background-color: white !important;
     color: black !important;
+}
+
+.css-hrgp63-view{
+    background-color: #1f1f1f !important;
+}
+
+.css-a970e3-view--inlineBlock-baseButton{
+    background-color: #282828 !important;
+    color: #C7CDD1 !important;
+}
+
+#calendar-list-holder {
+    background-color: #1f1f1f !important;
+}
+
+.css-1cq6qpk-view{
+    background-color: #4d4d4d !important;
 }
