@@ -235,6 +235,7 @@
         "https://canvas.ltu.se/*",
         "https://canvas.nau.edu/*",
         "https://canvas.jccc.edu/*"
+        "https://canvas.unab.cl/"
       ],
       "css":[
           "css/styles.css"
