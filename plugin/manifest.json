@@ -134,6 +134,7 @@
         "https://bcportalguard.butte.edu/*",
         "https://*.canvas.vu.nl/*",
         "https://*.canvas.login.vu.nl/*",
+        "https://onlinestudy.york.ac.uk/*",
         "https://cpeonline.ucdavis.edu/*",
         "https://canvas.ithaca.edu/*",
         "https://canvas.tccd.edu/*",
@@ -234,7 +235,7 @@
         "https://dentonisd.instructure.com/*",
         "https://canvas.ltu.se/*",
         "https://canvas.nau.edu/*",
-        "https://canvas.jccc.edu/*"
+        "https://canvas.jccc.edu/*",
         "https://canvas.unab.cl/"
       ],
       "css":[

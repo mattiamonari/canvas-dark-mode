@@ -7,7 +7,7 @@
   --ic-brand-Login-body-bgd-shadow-color: #282828;
   --ic-brand-global-nav-menu-item__text-color: #C7CDD1;
   --ic-brand-global-nav-menu-item__text-color--active: #fff;
-  --ic-brand-global-nav-ic-icon-svg-fill--active: #333;
+  --ic-brand-global-nav-ic-icon-svg-fill--active: #fff;
   --ic-brand-font-color-dark-lightened-15: #C7CDD1;
   --eHiXd-linkColor: #fff;
 }
@@ -35,6 +35,7 @@ span[role=dialog], span[role=dialog] > div, .agenda-wrapper, .agenda-day, .agend
 body, .header-bar, .ui-tabs-anchor, .ui-tabs-active, .quiz-submission, .ig-header, .accessible-toggler, .ic-Input, .ic-DashboardCard__box__header {
     background: #1f1f1f !important;
     color: #C7CDD1 !important;
+    text-shadow: none;
 }
 
 .module-sequence-footer-content, .ic-app-crumbs, #breadcrumbs, .course-list-unpublished-course-row {
@@ -60,9 +61,8 @@ a {
     text-decoration: none !important;
 }
 
-
 .status-description, .title, .locked_title, .points_possible_display,  .ig-details__item
-, .name, h2, .comment, td, .score_value, .ic-Login__actions, .ic-Label{
+, .name, h2, .comment, td, .score_value, .ic-Login__actions, .ic-Label, .enRcg_bGBk{
     color: #C7CDD1 !important;
 }
 
@@ -230,4 +230,58 @@ code{
 
 .css-1cq6qpk-view{
     background-color: #282828 !important;
+}
+
+code{
+    color: lightcyan !important;
+}
+
+.answer_label pre{
+    background-color: #5d5d5d !important;
+    border: none !important;
+}
+
+.assignment-name {
+    background-color: white !important;
+    color: black !important;
+}
+
+.student-name {
+    background-color: white !important;
+    color: black !important;
+}
+
+.student-grades-link {
+    background-color: white !important;
+    color: black !important;
+}
+
+#html {
+  scrollbar-color: #333 #000 !important;
+}
+
+.css-sg1rn7-view {
+  background: rgb(40 40 40) !important;
+}
+
+
+.css-hrgp63-view{
+    background-color: #1f1f1f !important;
+}
+
+.css-a970e3-view--inlineBlock-baseButton{
+    background-color: #282828 !important;
+    color: #C7CDD1 !important;
+}
+
+#calendar-list-holder {
+    background-color: #1f1f1f !important;
+}
+
+.css-1cq6qpk-view{
+    background-color: #282828 !important;
+}
+
+.user_content div {
+    background: #1f1f1f !important;
 }
